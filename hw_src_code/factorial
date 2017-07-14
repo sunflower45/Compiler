@@ -1,0 +1,10 @@
+10 PRINT "test"
+20 LET A = 1
+30 PRINT A
+40 LET A = A + 10
+50 PRINT A
+60 LET B = 5
+70 PRINT B
+80 LET B = B + 10
+90 PRINT B
+100 REM "test"
